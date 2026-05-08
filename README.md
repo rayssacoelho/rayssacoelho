@@ -4,11 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=990147&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rayssa+Coelho;I+study+Computer+Engineering+at+UFRN;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rayssacoelho&show_icons=true&count_private=true&hide_border=true&title_color=990147&icon_color=990147&text_color=990147&bg_color=0d1117&rank_icon=github" alt="Rayssa Coelho github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssacoelho&layout=compact&hide_border=true&title_color=990147&text_color=990147&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rayssacoelho&show_icons=true&count_private=true&hide_border=true&title_color=990147&icon_color=990147&text_color=990147&bg_color=transparent&rank_icon=github" alt="Rayssa Coelho github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssacoelho&layout=compact&hide_border=true&title_color=990147&text_color=990147&bg_color=transparent" />
 </div>
 
-[![Rayssa Coelho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayssacoelho&bg_color=000000&color=990147&line=990147&point=990147&area=true&hide_border=true)](https://github.com/rayssacoelho/github-readme-activity-graph)
+[![Rayssa Coelho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayssacoelho&bg_color=transparent&color=990147&line=990147&point=990147&area=true&hide_border=true)](https://github.com/rayssacoelho/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rayssacoelho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
