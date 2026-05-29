@@ -10,9 +10,9 @@
 
 [![Rayssa Coelho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayssacoelho&bg_color=transparent&color=990147&line=990147&point=990147&area=true&hide_border=true)](https://github.com/rayssacoelho/github-readme-activity-graph)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rayssacoelho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p>-->
 
 
 <div align="center">
